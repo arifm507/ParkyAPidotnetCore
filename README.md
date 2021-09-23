@@ -1,1 +1,1 @@
-# Demo README file
+# This is .net core api project with swagger
