@@ -85,7 +85,6 @@ namespace ParkyWeb.Controllers
 
         }
         [HttpDelete]
-        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
             var status = await _npRepo.DeleteAsync(SD.NationalParkApiPath, id);
