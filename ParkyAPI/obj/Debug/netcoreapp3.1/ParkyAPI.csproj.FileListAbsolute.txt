@@ -6,7 +6,12 @@ D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\ParkyAPI.runtimeconfig.json
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\ParkyAPI.runtimeconfig.dev.json
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\ParkyAPI.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\ParkyAPI.pdb
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\ParkyAPI.xml
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -28,7 +33,11 @@ D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.d
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
@@ -53,6 +62,7 @@ D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.GeneratedMSBuildEditorCo
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.AssemblyInfoInputs.cache
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.AssemblyInfo.cs
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.CoreCompileInputs.cache
+D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ParkyAPI.StaticWebAssets.Manifest.cache
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\staticwebassets\ParkyAPI.StaticWebAssets.xml
@@ -62,11 +72,3 @@ D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.CopyComplete
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.dll
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.pdb
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.genruntimeconfig.cache
-D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
-D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.MvcApplicationPartsAssemblyInfo.cs
-D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\ParkyAPI.xml
