@@ -47,13 +47,13 @@ namespace ParkyWeb.Controllers
                 return View(objVM);
             }
 
-            objVM.Trails = await _trailRepo.GetAsync(SD.TrailApiPath, id.GetValueOrDefault());
+            objVM.Trail = await _trailRepo.GetAsync(SD.TrailApiPath, id.GetValueOrDefault());
 
-            if (objVM.Trails == null)
+            if (objVM.Trail == null)
             {
                 return NotFound();
             }
-            return View(objVM.Trails);
+            return View(objVM.Trail);
         }
 
         [HttpPost]
@@ -63,13 +63,13 @@ namespace ParkyWeb.Controllers
             if (ModelState.IsValid)
             {
                 
-                if (obj.Trails.Id == 0)
+                if (obj.Trail.Id == 0)
                 {
-                    await _trailRepo.CreateAsync(SD.TrailApiPath, obj.Trails);
+                    await _trailRepo.CreateAsync(SD.TrailApiPath, obj.Trail);
                 }
                 else
                 {
-                    await _trailRepo.UpdateAsync(SD.TrailApiPath + obj.Trails.Id, obj.Trails);
+                    await _trailRepo.UpdateAsync(SD.TrailApiPath + obj.Trail.Id, obj.Trail);
                 }
                 return RedirectToAction(nameof(Index));
             }
