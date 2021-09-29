@@ -324,6 +324,7 @@ D:\work\Parky\ParkyWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.
 D:\work\Parky\ParkyWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\work\Parky\ParkyWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\work\Parky\ParkyWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.csproj.AssemblyReference.cache
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.GeneratedMSBuildEditorConfig.editorconfig
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.AssemblyInfoInputs.cache
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.AssemblyInfo.cs
@@ -345,6 +346,8 @@ D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\NationalParks\Upsert.
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Index.cshtml.g.cs
+D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Upsert.cshtml.g.cs
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.RazorTargetAssemblyInfo.cache
@@ -354,5 +357,3 @@ D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.csproj.CopyComplete
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.dll
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.pdb
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.genruntimeconfig.cache
-D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.csproj.AssemblyReference.cache
-D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Index.cshtml.g.cs

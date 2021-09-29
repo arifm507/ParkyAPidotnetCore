@@ -57,6 +57,7 @@ D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\work\Parky\ParkyAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.AssemblyReference.cache
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.GeneratedMSBuildEditorConfig.editorconfig
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.AssemblyInfoInputs.cache
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.AssemblyInfo.cs
