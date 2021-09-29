@@ -354,3 +354,5 @@ D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.csproj.CopyComplete
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.dll
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.pdb
 D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.genruntimeconfig.cache
+D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\ParkyWeb.csproj.AssemblyReference.cache
+D:\work\Parky\ParkyWeb\obj\Debug\netcoreapp3.1\Razor\Views\Trails\Index.cshtml.g.cs

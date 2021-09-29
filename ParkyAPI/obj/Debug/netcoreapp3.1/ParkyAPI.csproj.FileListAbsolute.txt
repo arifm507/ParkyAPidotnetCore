@@ -71,3 +71,4 @@ D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.CopyComplete
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.dll
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.pdb
 D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.genruntimeconfig.cache
+D:\work\Parky\ParkyAPI\obj\Debug\netcoreapp3.1\ParkyAPI.csproj.AssemblyReference.cache
